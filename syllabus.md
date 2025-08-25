@@ -39,10 +39,10 @@ We will have to order things online. You should work with the teaching staff to 
 The project can be broken down into a bunch of different sub-projects than need to be completed and then brought back into a full system.
 
 - Computer system (command and data handling system):
-      1. Power system running CDH with a remove before flight pin
-      2. CDH set up with accounts and remote connection capable
-      3. All required software installed (e.g., python, C++)
-      4. Computer system that can be used for communications
+      - Power system running CDH with a remove before flight pin
+      - CDH set up with accounts and remote connection capable
+      - All required software installed (e.g., python, C++)
+      - Computer system that can be used for communications
 
 - Structure:
       1. Design + CAD drawings
