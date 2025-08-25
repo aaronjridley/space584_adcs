@@ -122,7 +122,8 @@ Other checkpoints include:
       2. Testbed to a point where other teams can use information to move forward
       3. Algorithms outlined and well understood
       4. Easy sensors and motor controllers tested and understood; magnetic torquers designed
-      5. Official updates given
+      5. Diagrams and Interfaces Documents due
+      6. Official updates given
 
 - Thursday before Fall break (Oct. 9):
       1. Testbed completed; structure rev 1 designed
@@ -158,23 +159,29 @@ Other checkpoints include:
 
 The class will be graded using the following criteria:
 
-1. (5%) Working science payload: Fully characterize camera, showing that it meets all requirements. Remote, automated operations of the camera with full delivery of images to ground station. Processing of data to show that it passes tests.
+(5 pts) Working science payload: Fully characterize camera, showing that it meets all requirements. Remote, automated operations of the camera with full delivery of images to ground station. Processing of data to show that it passes tests.
 
-2. (10%) Working spacecraft including structure, power, comms: Structure that holds all components with a power system that operates the system for required amount of time. Meets required mass (< 1kg) and volume (10 cm x 10 cm x 10 cm). Communicates to ground station and provides all ADCS data.
+(10 pts) Working spacecraft including structure, power, comms: Structure that holds all components with a power system that operates the system for required amount of time. Meets required mass (< 1kg) and volume (10 cm x 10 cm x 10 cm). Communicates to ground station and provides all ADCS data.
 
-3. (15%) Working attitude determination system components: Test results that show that individual components work as required. Components include gyro, magnetometer, IR camera, star camera.
+(15 pts) Working attitude determination system components: Test results that show that individual components work as required. Components include gyro, magnetometer, IR camera, star camera.
 
-4. (10%) Working control system components: Test results that show that individual components work as required. Components include a wheel and at least one magnetic torque rod.
+(10 pts) Working control system components: Test results that show that individual components work as required. Components include a wheel and at least one magnetic torque rod.
 
-5. (20%) Working ADCS algorithm: All components of the algorithm work as expected with both software and hardware in the loop.
+(20 pts) Working ADCS algorithm: All components of the algorithm work as expected with both software and hardware in the loop. This algorithm can be broken down into certain modes, such as "reduce spin", "move to target", "desaturate wheel", etc.  Each of these can be demonstrated to work if the algorithm as a whole does not work.
 
-6. (15%) Working testbed: Testbed that holds the spacecraft within an operational Helmholtz cage (producing a large magnetic field); provide an initial (specified) rotation on the system; reduced friction so that the system will freely rotate for some specified period of time; a starfield with enough stars placed with enough angles and brightnesses that the ADCS system can work as required; and a heat source placed as either the Sun or Earth.
+(15 pts)) Working testbed: Testbed that holds the spacecraft within an operational Helmholtz cage (producing a large magnetic field); provide an initial (specified) rotation on the system; reduced friction so that the system will freely rotate for some specified period of time; a starfield with enough stars placed with enough angles and brightnesses that the ADCS system can work as required; and a heat source placed as either the Sun or Earth.
 
-7. (15%) Complete documentation, including requirements, diagrams, interface documents, and all updates: Requirements flowdown don't have to be extremely formal, but should outline all of the design decisions and how they were made. This should start from a series of level-1 requirements and flow down into the subsystems that capture things like resolution, precision, accuracy, sensitivity, etc. This should be done for every aspect of the project - for example, how fast must an algorithm produce a starfield image given the orientation?
+(10 pts) Requirements Flow Down: Requirements flowdown don't have to be extremely formal, but should outline all of the design decisions and how they were made (i.e., complete!). This should start from a series of level-1 requirements and flow down into the subsystems that capture things like resolution, precision, accuracy, sensitivity, etc. This should be done for every aspect of the project - for example, how fast must an algorithm produce a starfield image given the orientation?
 
-8. (5%) Team feedback: During the semester, there will be plenty of opportunity for discussion with me on the team members. I expect to have no real surprises on the team feedback at the end of the semester.  Having said that, 5\% of your grade will be based on peer evaluations.
+(5 pts) Diagrams and Interface Documents: These documents should clearly illustrate the electrical connections, mechanical connections, and software interfaces for the various components. These should be used as references for when building interfaces (of all kinds) for the system.
 
-9. (5%) Lab Stewardship: All teams must treat the lab space with the upmost respect. It is expected that the teams keep their areas organized, respect other team’s (and other lab!) equipment, and clean up their area when they are done with the semester.
+(3 x 2 pts) All updates: These are informal presentations throughout the semester that provide opportunity for feedback. They are also good milestones for completing each stage of the project.
+
+(10 pts) Final Report: This should contain all of the results from the final tests and should be in the form of a report. The team should list their requirements and show/prove how each was met by the final performance. There is no formal length requirement, but there is an expectation that the report should be extremely easy to use to check that everything was completed (or not) to the team's satisfaction.  If something was not completed or did not operate as expected, there should be some explaination as to why.
+
+(5 pts) Team feedback: During the semester, there will be plenty of opportunity for discussion with me on the team members. I expect to have no real surprises on the team feedback at the end of the semester.  Having said that, 5\% of your grade will be based on peer evaluations.
+
+(5 pts) Lab Stewardship: All teams must treat the lab space with the upmost respect. It is expected that the teams keep their areas organized, respect other team’s (and other lab!) equipment, and clean up their area when they are done with the semester.
 
 
 ## Extras
