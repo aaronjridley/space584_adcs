@@ -108,31 +108,31 @@ We have an extremely compressed schedule to fully design, build, test, and deplo
 Other checkpoints include:
 
 - Second Tuesday in the semester (Sept. 2):
-      1. Teams fully established, with roles/deliverables specified for each team member
-      2. Team names if desired
-      3. Lab space established
+    1. Teams fully established, with roles/deliverables specified for each team member
+    2. Team names if desired
+    3. Lab space established
 
 - Second Thursday in the semester (Sept. 4):
-      1. Requirements flowdown to each component
-      2. Initial list of components to use and purchase
-      3. Initial designs 
+    1. Requirements flowdown to each component
+    2. Initial list of components to use and purchase
+    3. Initial designs 
 
 - 4th Tuesday in the semester (Sept. 23):
-      1. Star field and IR source placed with database created
-      2. Testbed to a point where other teams can use information to move forward
-      3. Algorithms outlined and well understood
-      4. Easy sensors and motor controllers tested and understood; magnetic torquers designed
-      5. Diagrams and Interfaces Documents due
-      6. Official updates given
+    1. Star field and IR source placed with database created
+    2. Testbed to a point where other teams can use information to move forward
+    3. Algorithms outlined and well understood
+    4. Easy sensors and motor controllers tested and understood; magnetic torquers designed
+    5. Diagrams and Interfaces Documents due
+    6. Official updates given
 
 - Thursday before Fall break (Oct. 9):
-      1. Testbed completed; structure rev 1 designed
-      2. All cameras and sensors characterized
-      3. Torque rods built; motors + wheels fully built and characterized
-      4. Any PCBs designed
-      5. Kinematic algorithm with (most) determination software and artificial torques implemented; control algorithm not working yet
-      6. Official updates given
-      7. Teaching staff release final testing procedure
+    1. Testbed completed; structure rev 1 designed
+    2. All cameras and sensors characterized
+    3. Torque rods built; motors + wheels fully built and characterized
+    4. Any PCBs designed
+    5. Kinematic algorithm with (most) determination software and artificial torques implemented; control algorithm not working yet
+    6. Official updates given
+    7. Teaching staff release final testing procedure
 
 - First Thursday in November (Nov. 6):
     1. Structure rev 2 complete
@@ -159,7 +159,10 @@ Other checkpoints include:
 
 The class will be graded using the following criteria:
 
-(5 pts) Working science payload: Fully characterize camera, showing that it meets all requirements. Remote, automated operations of the camera with full delivery of images to ground station. Processing of data to show that it passes tests.
+(5 pts) Working science payload:
+- Fully characterize camera, showing that it meets all requirements.
+- Remote, automated operations of the camera with full delivery of images to ground station.
+- Processing of data to show that it passes tests.
 
 (10 pts) Working spacecraft including structure, power, comms: Structure that holds all components with a power system that operates the system for required amount of time. Meets required mass (< 1kg) and volume (10 cm x 10 cm x 10 cm). Communicates to ground station and provides all ADCS data.
 
