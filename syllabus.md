@@ -166,11 +166,11 @@ The class will be graded using the following criteria:
 
 4. (10%) Working control system components: Test results that show that individual components work as required. Components include a wheel and at least one magnetic torque rod.
 
-5. (20%) Working ADCS alorithm: All components of the algorithm work as expected with both software and hardware in the loop.
+5. (20%) Working ADCS algorithm: All components of the algorithm work as expected with both software and hardware in the loop.
 
 6. (15%) Working testbed: Testbed that holds the spacecraft within an operational Helmholtz cage (producing a large magnetic field); provide an initial (specified) rotation on the system; reduced friction so that the system will freely rotate for some specified period of time; a starfield with enough stars placed with enough angles and brightnesses that the ADCS system can work as required; and a heat source placed as either the Sun or Earth.
 
-7. (15%) Complete documentation, including requirements, diagrams, interface documents, and all updates: Requirements flowdown don't have to be extremely formal, but should outline all of the design decisions and how they were made. This should start from a series of level-1 requirements and flow down into the subsystems that capture things like resolution, precision, accuracy, sensitivity, etc. This should be done for every aspect of the project - for example, how fast must an algorithm produce a startfield image given the orientation?
+7. (15%) Complete documentation, including requirements, diagrams, interface documents, and all updates: Requirements flowdown don't have to be extremely formal, but should outline all of the design decisions and how they were made. This should start from a series of level-1 requirements and flow down into the subsystems that capture things like resolution, precision, accuracy, sensitivity, etc. This should be done for every aspect of the project - for example, how fast must an algorithm produce a starfield image given the orientation?
 
 8. (5%) Team feedback: During the semester, there will be plenty of opportunity for discussion with me on the team members. I expect to have no real surprises on the team feedback at the end of the semester.  Having said that, 5\% of your grade will be based on peer evaluations.
 
