@@ -78,7 +78,7 @@ The project can be broken down into a bunch of different sub-projects than need 
     9. Specify torque on system given PWM signal as a function of time (i.e., change of PWM in unit of time provides torque)
     10. Build entire control modeling system linking together all components
 
-Testbed:
+- Testbed:
     1. Rod plus mounts for payload structure
     2. Suspension mechanism (if magnetic, this must not strongly interfere with the magnetic field at the center of the Helmholtz cage)
     3. 1D Helmholtz cage that is capable of producing at least 3x Earth field at center 
