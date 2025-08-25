@@ -135,20 +135,20 @@ Other checkpoints include:
       7. Teaching staff release final testing procedure
 
 - First Thursday in November (Nov. 6):
-      1. Structure rev 2 complete
-      2. Star + IR cameras providing data to ADCS system; algorithms can swap out hardware vs software solutions
-      3. Torque rods validated and characterized
-      4. Control algorithm should be able to stop initial spin and desaturate wheel using hardware
-      5. If system is completely stationary, algorithm should be able to specify orientation with error estimate
-      6. Science camera should have complete data pipeline (take image, store image, send image to ground); validation of camera performance
-      6. Official updates given
+    1. Structure rev 2 complete
+    2. Star + IR cameras providing data to ADCS system; algorithms can swap out hardware vs software solutions
+    3. Torque rods validated and characterized
+    4. Control algorithm should be able to stop initial spin and desaturate wheel using hardware
+    5. If system is completely stationary, algorithm should be able to specify orientation with error estimate
+    6. Science camera should have complete data pipeline (take image, store image, send image to ground); validation of camera performance
+    7. Official updates given
 
 - Thursday before Thanksgiving (Nov. 20):
-      1. Goal for completion, so there is margin in schedule
+    1. Goal for completion, so there is margin in schedule
 
 - Dec. 4:
-      1. Last day of class
-      2. System will be officially tested at this point
+    1. Last day of class
+    2. System will be officially tested at this point
 
 - Day of the Final Exam (Tue. Dec. 16th):
     1. Final results must be turned in before this time.
