@@ -107,24 +107,24 @@ We have an extremely compressed schedule to fully design, build, test, and deplo
 
 Other checkpoints include:
 
-- Second Tuesday in the semester (Sept. 1):
+- Second Tuesday in the semester (Sept. 2):
       1. Teams fully established, with roles/deliverables specified for each team member
       2. Team names if desired
       3. Lab space established
 
-- Second Thursday in the semester (Sept. 3):
+- Second Thursday in the semester (Sept. 4):
       1. Requirements flowdown to each component
       2. Initial list of components to use and purchase
       3. Initial designs 
 
-- 4th Tuesday in the semester (Sept. 22):
+- 4th Tuesday in the semester (Sept. 23):
       1. Star field and IR source placed with database created
       2. Testbed to a point where other teams can use information to move forward
       3. Algorithms outlined and well understood
       4. Easy sensors and motor controllers tested and understood; magnetic torquers designed
       5. Official updates given
 
-- Thursday before Fall break (Oct. 8):
+- Thursday before Fall break (Oct. 9):
       1. Testbed completed; structure rev 1 designed
       2. All cameras and sensors characterized
       3. Torque rods built; motors + wheels fully built and characterized
@@ -133,7 +133,7 @@ Other checkpoints include:
       6. Official updates given
       7. Teaching staff release final testing procedure
 
-- First Thursday in November (Nov. 5):
+- First Thursday in November (Nov. 6):
       1. Structure rev 2 complete
       2. Star + IR cameras providing data to ADCS system; algorithms can swap out hardware vs software solutions
       3. Torque rods validated and characterized
@@ -142,14 +142,14 @@ Other checkpoints include:
       6. Science camera should have complete data pipeline (take image, store image, send image to ground); validation of camera performance
       6. Official updates given
 
-- Thursday before Thanksgiving (Nov. 19)
+- Thursday before Thanksgiving (Nov. 20):
       1. Goal for completion, so there is margin in schedule
 
-- Dec. 3
+- Dec. 4:
       1. Last day of class
       2. System will be officially tested at this point
 
-- Day of the Final Exam (Thu. April 25th 8 AM):
+- Day of the Final Exam (Tue. Dec. 16th):
     1. Final results must be turned in before this time.
     2. All equipment must be checked back in (in working condition).
     3. Lab spaces must be cleaned.
